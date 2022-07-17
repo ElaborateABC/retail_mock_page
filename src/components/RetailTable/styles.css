@@ -1,0 +1,27 @@
+.table_frame {
+    background-color: white;
+    margin: 50px 15px 15px 0;
+    padding: 20px;
+}
+
+.table_head {
+    font-size: 11px;
+    font-weight: bold;
+    padding: 10px 0;
+    color: #828a95;
+}
+
+.table_data {
+    font-size: 11px;
+    padding: 8px 0;
+    color: #aec1d6;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+tr {
+    border-bottom: 1px solid #f5f6f9;
+    height: 40px;
+}

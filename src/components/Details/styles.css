@@ -1,0 +1,43 @@
+.frame {
+    min-width: 260px;
+    background-color: white;
+    margin: 0 15px 15px 15px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.image {
+    width: 100px;
+    margin: 20px 0 10px;
+}
+
+.title {
+    font-size: 14px;
+    font-weight: bold;
+    color: #3b4758;
+    padding: 5px;
+}
+
+.subtitle {
+    font-size: 10px;
+    font-weight: 400;
+    color: #b7c2d0;
+    padding: 5px 30px 10px;
+}
+
+.tags{
+    flex-wrap: wrap;
+    display: flex;
+    border-top: 1px solid #eff2f6;
+    border-bottom: 1px solid #eff2f6;
+    padding: 8px;
+}
+
+.tag {
+    font-size: 9px;
+    border: 1px solid #eff2f6;
+    border-radius: 5px;
+    white-space: nowrap;
+    padding: 3px 15px;
+    color: #58667a;
+    margin: 3px;
+}

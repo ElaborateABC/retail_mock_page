@@ -2,7 +2,7 @@
   "name": "stackline_mockapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://elaborateabc.github.io/retail_mock_page",
+  "homepage": "https://elaborateabc.github.io/retail_mock_page",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.3",
     "@testing-library/jest-dom": "^5.16.4",

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/retail_mock_page/static/css/main.df837c40.css",
+    "main.js": "/retail_mock_page/static/js/main.7d30545b.js",
+    "index.html": "/retail_mock_page/index.html",
+    "main.df837c40.css.map": "/retail_mock_page/static/css/main.df837c40.css.map",
+    "main.7d30545b.js.map": "/retail_mock_page/static/js/main.7d30545b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df837c40.css",
+    "static/js/main.7d30545b.js"
+  ]
+}
